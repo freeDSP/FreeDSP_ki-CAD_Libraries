@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCM5102APWR
+D 2VRMS DirectPath, 112dB Audio Stereo DAC with 32-bit, 384kHz PCM Interface
+K
+F https://componentsearchengine.com/Datasheets/2/PCM5102APWR.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AZ1117EH-3.3TRG1
+D LDO Voltage Regulators LDO BJT HiCurr
+K
+F https://componentsearchengine.com/Datasheets/1/AZ1117EH-3.3TRG1.pdf
+$ENDCMP
+#
+#End Doc Library

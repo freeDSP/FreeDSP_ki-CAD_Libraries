@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SW_Rotary3x4
+D 3 rotary switches with 4 positions
+K rotary switch
+F http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf
+$ENDCMP
+#
+$CMP SW_Slide2x4
+D 3 rotary switches with 4 positions
+K rotary switch
+F https://www.nidec-copal-electronics.com/j/catalog/switch/cms.pdf
+$ENDCMP
+#
+#End Doc Library

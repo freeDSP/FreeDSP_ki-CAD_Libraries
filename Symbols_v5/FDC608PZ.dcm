@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDC608PZ
+D FDC608PZ, P-channel MOSFET Transistor, -5.8A -20V, 6-Pin SSOT
+K
+F http://docs-europe.electrocomponents.com/webdocs/10c9/0900766b810c95e3.pdf
+$ENDCMP
+#
+#End Doc Library

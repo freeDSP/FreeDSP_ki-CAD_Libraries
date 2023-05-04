@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CS8421-CZZ
+D Sample Rate Converter 20-Pin TSSOP CS8421-CZZ, Sample Rate Converter, 32 bit- 211kHz, 20-Pin TSSOP
+K
+F http://www.mouser.com/ds/2/76/CS8421_F7-765043.pdf
+$ENDCMP
+#
+#End Doc Library

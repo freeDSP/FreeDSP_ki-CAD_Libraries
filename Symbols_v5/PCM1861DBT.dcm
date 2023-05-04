@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCM1861DBT
+D 110dB 2-Channel Hardware-Controlled Audio ADC With Universal Front End
+K
+F http://www.ti.com/lit/gpn/PCM1861
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCM1808QPWRQ1
+D Automotive 99dB SNR Stereo ADC With Single-Ended Inputs
+K
+F http://www.ti.com/lit/ds/symlink/pcm1808-q1.pdf
+$ENDCMP
+#
+#End Doc Library

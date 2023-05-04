@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model RK09L12B0A3Z
+#/729345/15675/2.49/8/4/Variable Resistor
+DEF RK09L12B0A3Z VR 0 30 Y Y 1 F N
+F0 "VR" 850 300 50 H V L CNN
+F1 "RK09L12B0A3Z" 850 200 50 H V L CNN
+F2 "RK09L12B0A3Z" 850 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/RK09L12B0A3Z.pdf" 850 0 50 H I L CNN
+F4 "9mm Size Metal Shaft Snap-in Type Single-unit and dual-unit types" 850 -100 50 H I L CNN "Description"
+F5 "11.35" 850 -200 50 H I L CNN "Height"
+F6 "ALPS" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "RK09L12B0A3Z" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "688-RK09L12B0A3Z" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/ALPS/RK09L12B0A3Z?qs=6EGMNY9ZYDQmUzls14jNTw%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X R11 R11 0 0 200 R 50 50 0 0 P
+X R12 R12 0 -100 200 R 50 50 0 0 P
+X R13 R13 0 -200 200 R 50 50 0 0 P
+X R21 R21 0 -300 200 R 50 50 0 0 P
+X R22 R22 1000 0 200 L 50 50 0 0 P
+X R23 R23 1000 -100 200 L 50 50 0 0 P
+X MH1 MH1 1000 -200 200 L 50 50 0 0 P
+X MH2 MH2 1000 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

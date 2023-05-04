@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model FDC608PZ
+#/5347/15675/2.30/6/3/Integrated Circuit
+DEF FDC608PZ IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "FDC608PZ" 850 200 50 H V L CNN
+F2 "SOT95P280X110-6N" 850 100 50 H I L CNN
+F3 "http://docs-europe.electrocomponents.com/webdocs/10c9/0900766b810c95e3.pdf" 850 0 50 H I L CNN
+F4 "FDC608PZ, P-channel MOSFET Transistor, -5.8A -20V, 6-Pin SSOT" 850 -100 50 H I L CNN "Description"
+F5 "1.1" 850 -200 50 H I L CNN "Height"
+F6 "Fairchild Semiconductor" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "FDC608PZ" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "7599037" 850 -500 50 H I L CNN "RS Part Number"
+F9 "http://uk.rs-online.com/web/p/mosfet-transistors/7599037/?source=DS" 850 -600 50 H I L CNN "RS Price/Stock"
+F10 "FDC608PZ" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "http://uk.rs-online.com/web/p/mosfet-transistors/7599037/?source=DS" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X S 1 0 0 200 R 50 50 0 0 B
+X D 2 0 -100 200 R 50 50 0 0 B
+X D_1 3 0 -200 200 R 50 50 0 0 B
+X G 6 1000 0 200 L 50 50 0 0 B
+X D_3 5 1000 -100 200 L 50 50 0 0 B
+X D_2 4 1000 -200 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

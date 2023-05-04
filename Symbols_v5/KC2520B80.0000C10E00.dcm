@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KC2520B80.0000C10E00
+D KC2520B80.0000C10E00, Crystal Oscillator, 80 MHz, 50ppm CMOS 15pF, 4-Pin CSMD, 2.5 x 2 x 0.7mm
+F http://docs-europe.electrocomponents.com/webdocs/14e1/0900766b814e1729.pdf
+$ENDCMP
+#
+#End Doc Library

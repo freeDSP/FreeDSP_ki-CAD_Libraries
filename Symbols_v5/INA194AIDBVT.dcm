@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8656ARZ
+D Low Noise,Precision CMOS Amplifier
+F http://componentsearchengine.com/Datasheets/1/AD8656ARZ.pdf
+$ENDCMP
+#
+$CMP IMN10
+D ROHM IMN10T108 Triple Switching Diode, Isolated, 300mA 80V, 6-Pin SMD
+F http://uk.rs-online.com/web/p/products/1690448
+$ENDCMP
+#
+$CMP IMN10T108
+D ROHM IMN10T108 Triple Switching Diode, Isolated, 300mA 80V, 6-Pin SMD
+F http://uk.rs-online.com/web/p/products/1690448
+$ENDCMP
+#
+$CMP INA194AIDBVT
+D -16V to +80V, Low- or High-side, High-Speed, Voltage Output Current Shunt Monitor
+F http://www.ti.com/lit/ds/symlink/ina194.pdf
+$ENDCMP
+#
+#End Doc Library

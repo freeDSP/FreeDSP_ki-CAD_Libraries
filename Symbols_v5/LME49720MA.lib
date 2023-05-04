@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LME49720MA
+#/241078/15675/2.10/8/3/Integrated Circuit
+DEF LME49720MA IC 0 30 Y Y 1 F N
+F0 "IC" 1350 150 50 H V C CNN
+F1 "LME49720MA" 1350 -450 50 H V C CNN
+F2 "SOIC127P600X175-8N" 1350 -550 50 H I C CNN
+F3 "http://www.ti.com/lit/ds/symlink/lme49720.pdf" 1350 -650 50 H I C CNN
+F4 "LME49720 Dual High Performance, High Fidelity Audio Operational Amplifier" 1350 -750 50 H I C CNN "Description"
+F5 "RS" 1350 -850 50 H I C CNN "Supplier_Name"
+F6 "" 1350 -950 50 H I C CNN "RS Part Number"
+F7 "Texas Instruments" 1350 -1050 50 H I C CNN "Manufacturer_Name"
+F8 "LME49720MA" 1350 -1150 50 H I C CNN "Manufacturer_Part_Number"
+F9 "" 1350 -1250 50 H I C CNN "Allied_Number"
+F10 "" 1350 -1350 50 H I C CNN "Other Part Number"
+F11 "1.75" 2550 -1450 50 H I C CNN "Height"
+DRAW
+S 200 100 2500 -400 0 0 10 f
+X OUTPUT_A 1 0 0 200 R 50 50 0 0 O
+X INVERTING_INPUT_A 2 0 -100 200 R 50 50 0 0 I
+X NON-INVERTING_INPUT_A 3 0 -200 200 R 50 50 0 0 I
+X V- 4 0 -300 200 R 50 50 0 0 U
+X V+ 8 2700 0 200 L 50 50 0 0 U
+X OUTPUT_B 7 2700 -100 200 L 50 50 0 0 O
+X INVERTING_INPUT_B 6 2700 -200 200 L 50 50 0 0 I
+X NON-INVERTING_INPUT_B 5 2700 -300 200 L 50 50 0 0 I
+ENDDRAW
+ENDDEF
+#
+#End Library

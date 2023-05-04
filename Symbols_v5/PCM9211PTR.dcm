@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCM9211PTR
+D 216kHz Digital Audio Interface Transceiver (DIX) with Stereo ADC and Routing
+K
+F http://www.ti.com/lit/gpn/pcm9211
+$ENDCMP
+#
+#End Doc Library

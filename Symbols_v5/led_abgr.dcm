@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED_ABGR
+D LED RGB, common anode (pin 1) Kingbright OSTB0603C1C-A
+K led rgb diode 
+F ~
+$ENDCMP
+#
+#End Doc Library

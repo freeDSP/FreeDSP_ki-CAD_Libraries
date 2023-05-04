@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Combo384
+D Amaneo Combo384
+K Amaneo
+$ENDCMP
+#
+$CMP MW-1466CORE
+D ADAU1466 CORE MODULE
+K ADAU1466
+$ENDCMP
+#
+#End Doc Library
