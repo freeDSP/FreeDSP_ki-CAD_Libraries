@@ -12,4 +12,4 @@ This page archives ki-CAD PCB parts 3D images. Each folders are depend on the ki
 
 
 
-Archived data will published  under the lisence of FreeDSP CC.
+Archived original data will published  under the lisence of FreeDSP CC. The others are not.
