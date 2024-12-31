@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADAU1467WBCPZ300R
+D Audio DSPs 32bit SigmaDSP Audio 24K/80K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/adau1463-1467.pdf
+$ENDCMP
+#
+#End Doc Library
