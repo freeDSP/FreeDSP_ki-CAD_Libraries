@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model T73XX103KT20
+#/1395945/15675/2.50/3/4/Variable Resistor
+DEF T73XX103KT20 VR 0 30 Y Y 1 F N
+F0 "VR" 650 300 50 H V L CNN
+F1 "T73XX103KT20" 650 200 50 H V L CNN
+F2 "T73XX203KT20" 650 100 50 H I L CNN
+F3 "http://uk.rs-online.com/web/p/products/8509637" 650 0 50 H I L CNN
+F4 "Trimmer Resistors - Through Hole 1/4\" SQ H/ADJ 10K" 650 -100 50 H I L CNN "Description"
+F5 "7" 650 -200 50 H I L CNN "Height"
+F6 "Vishay" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "T73XX103KT20" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "72-T70XX-10K" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Vishay-Sfernice/T73XX103KT20?qs=h4f6qdGYbthFY92KhrH3HA%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "T73XX103KT20" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/t73xx103kt20/vishay?region=europe" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X A 1 0 0 200 R 50 50 0 0 P
+X B 2 800 0 200 L 50 50 0 0 P
+X C 3 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
